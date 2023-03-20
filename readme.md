@@ -1,5 +1,5 @@
 ## Les consignes étaient:
-###TP Fake Bomb
+### TP Fake Bomb
 
 ##### Pour un Escape Game vous devez coder une fausse bombe :
 
@@ -21,7 +21,7 @@
 
 ![branchements du système](branchement.png)
 
-##Les règles du jeu:
+## Les règles du jeu:
 - Une fois la bombe amorcée, vous avez 4 essaies pour trouver 
 le bon code en écrivant sur le keypad ou 50 secondes avant que la bombe explose. 
 - Au début de la partie un indice vous est donnée dans la console en donnant une intervalle
@@ -39,7 +39,7 @@ un son assez désagréable pour les oreilles (faites attention) retentira et une
 - Le programme s'arrêtera après l'explosion ou le désamorçage de la bombe.
 
 
->###cheatcode : 
+>### cheatcode : 
 >décommenter les lignes 136 et 137 ce qui affichera le code au début de la partie.
 
 ### Le lien tinkercad est:
